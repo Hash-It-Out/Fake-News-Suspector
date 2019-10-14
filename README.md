@@ -21,12 +21,7 @@
 - `News Link based search` insert a link to truthify.
 - `Grayscale result` Rate of real/fake on 0-100 % scale.
 
-<h3 > Fake News As Website </h3>
-<br>
-<p align="center">
-<img src ="Website.gif" width = 500px>
-</p>
-</div>
+
 
 ------------------------------------------
 
