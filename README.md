@@ -3,7 +3,7 @@
  <img width=300px src="FakeLogo.PNG" alt="FakeNews-logo"></a>
 </p>
 
-<h3 align="center">ML based fake news detector.</h3>
+<h3 align="center">Fake News Detector based on Machine Learning.</h3>
 
 ------------------------------------------
 
@@ -15,7 +15,7 @@
 
 
 ------------------------------------------
-### Features
+## Features
 
 - `Headline based search` insert a headline to truthify.
 - `News Link based search` insert a link to truthify.
@@ -25,23 +25,23 @@
 
 ------------------------------------------
 
-### Add-Ons
+## Add-Ons
 
 - [ ] Using different Algorithms and technology to verify truth eg. Deep Learning,AI.
 - [ ] Add More
 
 ------------------------------------------
-### File Structure
+## File Structure
 
 
-#### Website
+## Website
 
 - `Scraping Files & Folders` : Contains scraped dataset and codes for scrapper of various news sites.
 - `API` : Contains various APIs used to fetch data from social network and news sites. 
 - `WCE` : Contains Django project with ML codes integrated.
 
 ------------------------------------------
-### Installation
+## Installation
 
 * Install dependencies
 ```sh
